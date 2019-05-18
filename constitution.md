@@ -1,4 +1,4 @@
-# CONSTITUTION of Krown.Club
+# Constitution for Krown.Club
 
 [A decentralized autonomous community]
 
