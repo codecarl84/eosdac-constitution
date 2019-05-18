@@ -1,4 +1,4 @@
-# Constitution for Krown.Club
+# Constitution for Krown DAC
 
 [A decentralized autonomous community]
 
